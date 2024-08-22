@@ -2,7 +2,7 @@
 
 # Frontend Starter Kit
 
-Bienvenue dans votre **Starter Kit Frontend**! 🚀 Ce kit est conçu pour vous aider à démarrer rapidement avec un environnement de développement moderne utilisant **Sass** et **Parcel**. Parfait pour les développeurs frontend qui souhaitent une configuration rapide avec une compilation automatique SCSS et un rechargement à chaud. 🔥
+Bienvenue dans votre **Starter Kit Frontend**! 🚀 Ce kit est conçu pour vous aider à démarrer rapidement avec un environnement de développement moderne utilisant **Sass** et **Parcel**. Parfait pour les développeurs frontend qui souhaitent une configuration rapide avec une compilation automatique SCSS et un hot-reloading. 🔥
 
 ## ⚙️ Prérequis
 
